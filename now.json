@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "regions": ["bru"],
+  "env": {
+    "MONGODB_URI": "@timefor-mongodb-uri"
+  }
+}
